@@ -9,11 +9,11 @@
 **/.settings/
 **/.cproject
 **/.project
-**/cmake-build-debug/
-**/_build/
+#**/cmake-build-debug/
+#**/_build/
 **/.vscode
 **/.gradle/
-**/build
+#**/build
 
 #Personal exclude
 #################
