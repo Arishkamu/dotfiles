@@ -1,7 +1,7 @@
 [user]
-	name = Vladimir Ivanov
+	name = Arina Ivanova
 #	email = vladimir.d.ivanov@jetbrains.com
-	email = knebekaizer@gmail.com
+	email = arishkamu@gmail.com
 [includeIf "gitdir:~/work/**"]
     path = ~/work/.gitconfig
 
