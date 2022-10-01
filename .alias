@@ -52,4 +52,4 @@ alias nproc='sysctl -n hw.ncpu'
 #alias scp-p='scp -F ~/.ssh/config_pola'
 
 
-alias dotfiles='/usr/bin/git --git-dir=/Volumes/vdi/.dotfiles/ --work-tree=/Volumes/vdi'
+alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
