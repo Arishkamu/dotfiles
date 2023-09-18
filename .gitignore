@@ -9,8 +9,9 @@
 **/.settings/
 **/.cproject
 **/.project
-#**/cmake-build-debug/
-#**/_build/
+# **/cmake-build-debug/
+**/cmake-build-*/
+**/_build*/
 **/.vscode
 **/.gradle/
 #**/build

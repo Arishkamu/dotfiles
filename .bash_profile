@@ -13,7 +13,7 @@ BLUE="\[\033[0;34m\]"
 MAGENTA="\[\033[0;35m\]"
 CYAN="\[\033[0;36m\]"
 NO_COLOUR="\[\033[0m\]"
-export PS1="$CYAN\h: $BLUE\w $RED\$(parse_git_branch)$NO_COLOUR
+export PS1="$MAGENTA\h: $BLUE\w $RED\$(parse_git_branch)$NO_COLOUR
 $ "
 
 export PATH="~/bin:$PATH"
